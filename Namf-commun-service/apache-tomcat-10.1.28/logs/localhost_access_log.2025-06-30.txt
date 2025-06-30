@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [30/Jun/2025:14:19:59 +0530] "DELETE /namf-communication-service/cbcf/non-ue-n2-messages/subscriptions/aa HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [30/Jun/2025:14:20:14 +0530] "DELETE /namf-communication-service/cbcf/non-ue-n2-messages/subscriptions/subid-1234 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [30/Jun/2025:14:21:43 +0530] "DELETE /namf-communication-service/cbcf/non-ue-n2-messages/subscriptions/subid-1234 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [30/Jun/2025:14:27:14 +0530] "POST /jsonrpc/get_system_setting HTTP/1.1" 404 782
